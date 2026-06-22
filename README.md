@@ -128,7 +128,7 @@ setInterval(fetchStatus, 10000);
 
 ## 📜 License
 
-Free to use and modify.
+Free to use and modify but give credit.
 
 ---
 
